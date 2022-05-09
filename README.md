@@ -24,19 +24,19 @@ through working with a creative team and a leading company of software industry.
 ### - Some of My Previews Work & Experiences 🚀📲
 
 
-# <a href="https://ibb.co/C2y1g18"><img src="https://i.ibb.co/BNJzbz3/Graduation-Project-Postar.jpg" alt="Graduation-Project-Postar" border="0"></a>
+# <a href="https://i.ibb.co/JQTBVBt/Graduation-Project-Postar.jpg"><img src="https://i.ibb.co/BNJzbz3/Graduation-Project-Postar.jpg" alt="Graduation-Project-Postar" border="0"></a>
 <p>click on thumbnail to load full resolution<br>
 
-# <a href="https://ibb.co/9h76CVc"><img src="https://i.ibb.co/cwj07Ck/chezlola.jpg" alt="chezlola" border="0"></a>
+# <a href="https://i.ibb.co/tz9gWxQ/chezlola.jpg"><img src="https://i.ibb.co/cwj07Ck/chezlola.jpg" alt="chezlola" border="0"></a>
 <p>click on thumbnail to load full resolution<br>
 
-# <a href="https://ibb.co/wdbHg2H"><img src="https://i.ibb.co/4FDyt0y/Sehaty.jpg" alt="Sehaty" border="0"></a>
+# <a href="https://i.ibb.co/RgMnbJn/Sehaty.jpg"><img src="https://i.ibb.co/4FDyt0y/Sehaty.jpg" alt="Sehaty" border="0"></a>
 <p>click on thumbnail to load full resolution<br>
 
-# <a href="https://ibb.co/1rt0Qj6"><img src="https://i.ibb.co/dPwfMxg/Sehaty-Provider.jpg" alt="Sehaty-Provider" border="0"></a>
+# <a href="https://i.ibb.co/R3kgbdy/Sehaty-Provider.jpg"><img src="https://i.ibb.co/dPwfMxg/Sehaty-Provider.jpg" alt="Sehaty-Provider" border="0"></a>
 <p>click on thumbnail to load full resolution<br>
 
-# <a href="https://ibb.co/n14Gb9v"><img src="https://i.ibb.co/YdJC3mM/Gorilla-Supplier.jpg" alt="Gorilla-Supplier" border="0"></a>
+# <a href="https://i.ibb.co/ZgvjV5P/Gorilla-Supplier.jpg"><img src="https://i.ibb.co/YdJC3mM/Gorilla-Supplier.jpg" alt="Gorilla-Supplier" border="0"></a>
 
 #
   
