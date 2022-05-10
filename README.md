@@ -1,12 +1,14 @@
-![Softwares Engineer | Flutter Developer ](https://i.ibb.co/tLwtv4b/01-cover-2.png)
-## Hi there <img src="https://github.com/AhmedHassanAllam/AhmedHassanAllam/blob/main/Wave.gif" height="55px" width="55px"> , I’m  Ahmed Allam
+
+<h1 align="center">Hi there<img src="https://github.com/AhmedHassanAllam/AhmedHassanAllam/blob/main/Wave.gif" height="55px" width="55px">, I'm Ahmed Allam</h1>
+<h3 align="center">Softwares Engineer | Flutter Developer</h3> 
+
+![Softwares Engineer | Flutter Developer ](https://i.ibb.co/tLwtv4b/01-cover-2.png) 
 
 
-#### Softwares Engineer | Flutter Developer
 
-#
 
-### - About Me 👨‍💻
+
+### - About Me 👨‍💻 <a href="https://www.linkedin.com/in/ahmed-allam-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnhaloka" height="30" width="40" /></a>
 
 
 I’m a software engineer with a bachelor’s degree in computer science, dually certified by
@@ -37,15 +39,6 @@ through working with a creative team and a leading company of software industry.
 <p>click on thumbnail to load full resolution<br>
 
 # <a href="https://i.ibb.co/ZgvjV5P/Gorilla-Supplier.jpg"><img src="https://i.ibb.co/YdJC3mM/Gorilla-Supplier.jpg" alt="Gorilla-Supplier" border="0"></a>
-
-#
-  
-#
-  
-### 📫 How to reach me:
-
-
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/ahmed-allam-software-engineer/)
 
 <!--
 **AhmedHassanAllam/AhmedHassanAllam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
