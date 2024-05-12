@@ -15,7 +15,7 @@ I’m a software engineer with a bachelor’s degree in computer science, dually
 - Greenwich University (London) 👨‍🎓
 - MSA University (Cairo) 👨‍🎓
 
-Have more than two years of proven working experience in mobile application development
+Have more than three years of proven working experience in mobile application development
 ( Flutter - iOS, Android ) spread across two professional companies.
 
 Very ambitious and team player who’s looking forward to enhance my career and leverage my experience in software field
